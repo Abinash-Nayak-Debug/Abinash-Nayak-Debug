@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **abinash2004.nayak@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Job Market Intelligence
+- 🔭 **I’m currently working on:** Job Market Intelligence Platform
 - 🌱 **I’m currently learning:** Devops
 - 👯 **I’m looking to collaborate on:** LLM Guardrails
 - 🤔 **I’m looking for help with:** After connect with me, you will know
