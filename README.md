@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="65%" valign="center">
+<td width="65%" valign="top">
 
 A passionate Data Scientist || AI/ML Engineer || Full Stack Python Developer
 
@@ -18,8 +18,10 @@ Email Me 👉 ✉️ **abinash2004.nayak@gmail.com** For Collaboration/Project o
 ⚡ Fun fact: I Love Tech and Tech Love Me
 
 </td>
-<td width="35%" valign="center" align="center">
+<td width="35%" align="center" valign="middle">
+
 <img src="https://camo.githubusercontent.com/7b4a7ef17e0587dc6d9a33f0dc6538b0d6f7ece73bfd497e31a48b14b1200936/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966" width="100%" alt="Developer GIF"/>
+
 </td>
 </tr>
 </table>
