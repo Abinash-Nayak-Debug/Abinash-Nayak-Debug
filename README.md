@@ -1,30 +1,16 @@
-💫 Hi 👋, I'm Abinash Nayak
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-A passionate Data Scientist || AI/ML Engineer || Full Stack Python Developer
+# 💫 Hi 👋, I'm Abinash Nayak
+**A passionate Data Scientist || AI/ML Engineer || Full Stack Python Developer**
 
 Email Me 👉 ✉️ **abinash2004.nayak@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-🔭 I’m currently working on: Job Market Intelligence Platform
-🌱 I’m currently learning: Devops
-👯 I’m looking to collaborate on: LLM Guardrails
-🤔 I’m looking for help with: After connect with me, you will know
-💬 Ask me about: Collaboration, Tech Support
-📫 How to reach me: abinash2004.nayak@gmail.com
-😄 Pronouns: Abinash Sir
-⚡ Fun fact: I Love Tech and Tech Love Me
-
-</td>
-<td width="35%" align="center" valign="middle">
-
-<img src="https://camo.githubusercontent.com/7b4a7ef17e0587dc6d9a33f0dc6538b0d6f7ece73bfd497e31a48b14b1200936/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966" width="100%" alt="Developer GIF"/>
-
-</td>
-</tr>
-</table>
+- 🔭 **I’m currently working on:** Job Market Intelligence Platform
+- 🌱 **I’m currently learning:** Devops
+- 👯 **I’m looking to collaborate on:** LLM Guardrails
+- 🤔 **I’m looking for help with:** After connect with me, you will know
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** abinash2004.nayak@gmail.com
+- 😄 **Pronouns:** Abinash Sir
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white[)](https://linkedin.com/in/https://www.linkedin.com/in/abinash-nayak-b26781268/](https://www.linkedin.com/in/abinash-nayak-b26781268/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abinash2004.nayak@gmail.com) 
